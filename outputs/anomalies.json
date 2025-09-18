@@ -1,0 +1,52 @@
+[
+    {
+        "anomaly_id": 6,
+        "root_cause": "Missing span ID in auth-service, indicating a tracing issue or service disruption.",
+        "confidence": 0.83
+    },
+    {
+        "anomaly_id": 15,
+        "root_cause": "High CPU usage (99.0%) in database, possibly due to a memory leak or inefficient code.",
+        "confidence": 0.98
+    },
+    {
+        "anomaly_id": 28,
+        "root_cause": "High CPU usage (97.0%) in web-server, possibly due to a memory leak or inefficient code.",
+        "confidence": 0.75
+    },
+    {
+        "anomaly_id": 38,
+        "root_cause": "High latency (906.0ms) in auth-service, possibly due to network congestion or resource exhaustion.",
+        "confidence": 0.73
+    },
+    {
+        "anomaly_id": 45,
+        "root_cause": "High latency (563.0ms) in user-service, possibly due to network congestion or resource exhaustion.",
+        "confidence": 0.86
+    },
+    {
+        "anomaly_id": 52,
+        "root_cause": "High CPU usage (92.0%) in auth-service, possibly due to a memory leak or inefficient code.",
+        "confidence": 0.92
+    },
+    {
+        "anomaly_id": 67,
+        "root_cause": "ERROR log detected in database, possibly due to a software bug or configuration error.",
+        "confidence": 0.89
+    },
+    {
+        "anomaly_id": 70,
+        "root_cause": "High CPU usage (94.0%) in payment-service, possibly due to a memory leak or inefficient code.",
+        "confidence": 0.76
+    },
+    {
+        "anomaly_id": 83,
+        "root_cause": "Anomaly detected due to multiple factors, requiring further investigation.",
+        "confidence": 0.85
+    },
+    {
+        "anomaly_id": 98,
+        "root_cause": "High CPU usage (91.0%) in web-server, possibly due to a memory leak or inefficient code.",
+        "confidence": 0.83
+    }
+]

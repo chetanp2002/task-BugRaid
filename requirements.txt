@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+boto3
+groq
+tqdm
+memory-profiler
+psutil
